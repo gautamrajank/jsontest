@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "userID": "Pre-Made",
+            "posts": [
+               {
+                   "imageurl": "https://i.imgur.com/4DhhJxk.jpg",
+                   "pinfo": {
+                        "title": "Contigo Insulated Water Bottle",
+                        "rate": 2.0,
+                        "distance": 3.0,
+                        "description": "A moderately used insulated bottle from Contigo. Great for general useage, and holding hot or cold liquids."
+                   }
+               },
+               
+                {
+                "imageurl": "https://i.imgur.com/zjwE3pd.jpg",
+                "pinfo": {
+                     "title": "Redragon Gaming Mouse",
+                     "rate": 1.0,
+                     "distance": 5.0,
+                     "description": "A decent gaming mouse. Reliable. Slightly used. RGB. Suitable for casual and semi-competitive useage."
+                    }   
+                },
+
+                {
+                    "imageurl": "https://i.imgur.com/NGlLezK.jpg",
+                    "pinfo": {
+                         "title": "Surface Pro 6",
+                         "rate": 30,
+                         "distance": 4.0,
+                         "description": "Practically new. Barely used. Comes with pen and keyboard."
+                        }   
+                },
+
+                {
+                    "imageurl": "https://i.imgur.com/2Ad4vHj.jpg",
+                    "pinfo": {
+                         "title": "Generic Bluetooth Gamepad",
+                         "rate": 3,
+                         "distance": 8.0,
+                         "description": "Compatible with Android natively. Charges with microusb"
+                        }   
+                }
+            ]
+        }
+    ]
+}

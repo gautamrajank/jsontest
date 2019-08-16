@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "userID": "Pre-Made",
+            "userID": "Pre-Made User",
             "posts": [
                {
                    "imageurl": "https://i.imgur.com/4DhhJxk.jpg",
@@ -31,8 +31,13 @@
                          "distance": 4.0,
                          "description": "Practically new. Barely used. Comes with pen and keyboard."
                         }   
-                },
+                }
+            ]
+        },
 
+        {
+            "userID": "Pre-Made User 2",
+            "posts": [
                 {
                     "imageurl": "https://i.imgur.com/2Ad4vHj.jpg",
                     "pinfo": {

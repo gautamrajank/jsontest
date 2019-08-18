@@ -1,6 +1,7 @@
 {
     "users": [
         {
+            "id": 0,
             "userID": "Pre-Made User",
             "posts": [
                {
@@ -36,6 +37,7 @@
         },
 
         {
+            "id":1,
             "userID": "Pre-Made User 2",
             "posts": [
                 {

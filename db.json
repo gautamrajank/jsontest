@@ -1,55 +1,67 @@
 {
-    "users": [
+  "users": [
+    {
+      "id": 0,
+      "userID": "Pre-Made User",
+      "posts": [
         {
-            "id": 0,
-            "userID": "Pre-Made User",
-            "posts": [
-               {
-                   "imageurl": "https://i.imgur.com/4DhhJxk.jpg",
-                   "pinfo": {
-                        "title": "Contigo Insulated Water Bottle",
-                        "rate": 2.0,
-                        "distance": 3.0,
-                        "description": "A moderately used insulated bottle from Contigo. Great for general useage, and holding hot or cold liquids."
-                   }
-               },
-               
-                {
-                "imageurl": "https://i.imgur.com/zjwE3pd.jpg",
-                "pinfo": {
-                     "title": "Redragon Gaming Mouse",
-                     "rate": 1.0,
-                     "distance": 5.0,
-                     "description": "A decent gaming mouse. Reliable. Slightly used. RGB. Suitable for casual and semi-competitive useage."
-                    }   
-                },
-
-                {
-                    "imageurl": "https://i.imgur.com/NGlLezK.jpg",
-                    "pinfo": {
-                         "title": "Surface Pro 6",
-                         "rate": 30,
-                         "distance": 4.0,
-                         "description": "Practically new. Barely used. Comes with pen and keyboard."
-                        }   
-                }
-            ]
+          "imageurl": "https://i.imgur.com/4DhhJxk.jpg",
+          "pinfo": {
+            "title": "Contigo Insulated Water Bottle",
+            "rate": 2,
+            "distance": 3,
+            "description": "A moderately used insulated bottle from Contigo. Great for general useage, and holding hot or cold liquids."
+          }
         },
-
         {
-            "id":1,
-            "userID": "Pre-Made User 2",
-            "posts": [
-                {
-                    "imageurl": "https://i.imgur.com/2Ad4vHj.jpg",
-                    "pinfo": {
-                         "title": "Generic Bluetooth Gamepad",
-                         "rate": 3,
-                         "distance": 8.0,
-                         "description": "Compatible with Android natively. Charges with microusb"
-                        }   
-                }
-            ]
+          "imageurl": "https://i.imgur.com/zjwE3pd.jpg",
+          "pinfo": {
+            "title": "Redragon Gaming Mouse",
+            "rate": 1,
+            "distance": 5,
+            "description": "A decent gaming mouse. Reliable. Slightly used. RGB. Suitable for casual and semi-competitive useage."
+          }
+        },
+        {
+          "imageurl": "https://i.imgur.com/NGlLezK.jpg",
+          "pinfo": {
+            "title": "Surface Pro 6",
+            "rate": 30,
+            "distance": 4,
+            "description": "Practically new. Barely used. Comes with pen and keyboard."
+          }
         }
-    ]
+      ]
+    },
+    {
+      "id": 1,
+      "userID": "Pre-Made User 2",
+      "posts": [
+        {
+          "imageurl": "https://i.imgur.com/2Ad4vHj.jpg",
+          "pinfo": {
+            "title": "Generic Bluetooth Gamepad",
+            "rate": 3,
+            "distance": 8,
+            "description": "Compatible with Android natively. Charges with microusb"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userID": "07182000",
+      "posts": [
+        {
+          "imageurl": "https://i.imgur.com/D9tXpmX.jpg",
+          "pinfo": {
+            "title": "Creative Outlier Air Bluetooth TWS Earbuds",
+            "rate": 8,
+            "distance": 10,
+            "description": "Great pair of truly wireless earbuds. Works with iOS and Android. Charging cable included."
+          }
+        }
+      ]
+    }
+  ]
 }
